@@ -1,0 +1,1 @@
+This is a funny file on a new branch
